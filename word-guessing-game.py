@@ -22,7 +22,7 @@ turns = 12
 # for char in word:
 #     print("_")
 
-# logic fot the game
+# logic for the game
 while turns > 0:
      # count the number of times the user fails
      failed = 0
